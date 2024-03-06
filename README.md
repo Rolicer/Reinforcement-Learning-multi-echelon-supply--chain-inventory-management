@@ -9,7 +9,7 @@ This project was part of my Bachelor Thesis, where I applied different reinforce
 - **Results analysis:** Python (NumPy, Pandas, scikit-learn, Matplotlib & Seaborn)
 
 ## Lessons learned:
-- Math behind Reinforcement Learning Algorithms, especially Trust Region Policy Optimization (TRPO), Advantage Actor-Critic (A2C), Proximal Policy Optimization (PPO), Soft Actor-Critic (SAC) and Augmented Random Search (ARS).
+- Theory & math behind Reinforcement Learning Algorithms, especially Trust Region Policy Optimization (TRPO), Advantage Actor-Critic (A2C), Proximal Policy Optimization (PPO), Soft Actor-Critic (SAC) and Augmented Random Search (ARS).
 - Adjusting existing supply chain models to usable code in Reinforcement Learning Libraries
 - Application of Reinforcement Learning Algorithms as well as comparing them against each other using graphs and various output variables.
 - How to write a scientific paper using LaTeX with pseudo-code, graphs and formulas
